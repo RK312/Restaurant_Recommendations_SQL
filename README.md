@@ -53,10 +53,10 @@ This repository contains SQL queries and corresponding visualizations for analyz
 ## Queries and Visualizations
 
 ### 1. Group all users according to Age Group and Count Age and Name Age Group as  
-       18 - 28 Youth
-       29 - 38 Young Adult
-       39 - 48 Adult
-       Other
+18 - 28 Youth
+29 - 38 Young Adult
+39 - 48 Adult
+Other
 
 ![User_Age Info](Code_Outputs/Img1_Restaurant.png)
 
@@ -94,7 +94,7 @@ This repository contains SQL queries and corresponding visualizations for analyz
 ![Weather_Wise_Restaurant](Code_Outputs/Img12_Restaurant.png)
 
 ### 13. List User 314 User_Id, Age, Gender, Restaurant_Id, Interaction_Type, 
-        Timestamp, Restaurant_Name, Cuisine, Rating, Price_Range, Location, Interaction_Id, Time of day, Weather
+Timestamp, Restaurant_Name, Cuisine, Rating, Price_Range, Location, Interaction_Id, Time of day, Weather
 ![List_User](Code_Outputs/Img13_Restaurant.png)
 
 ### 14. List User 551 date wise all restaurant details
