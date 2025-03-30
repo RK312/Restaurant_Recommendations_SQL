@@ -1,6 +1,6 @@
 # 🎬 Restaurant Recommendations: Unlocking Insights for a Restaurant Business
 
-<img src="./Code_Outputs/Restaurant.jpg" width="6000" height="800"/>&nbsp;
+<img src="./Code_Outputs/Restaurant.jpg" width="6000" height="600"/>&nbsp;
 
 ## 📌 Project Overview
 This project focuses on analyzing the *RESTAURANTS AND USERS* database to extract valuable insights that can enhance business operations, marketing strategies, and inventory management. SQL is extensively used to perform exploratory data analysis (EDA), understand the database schema, and answer critical business queries.
